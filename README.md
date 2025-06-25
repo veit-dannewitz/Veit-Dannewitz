@@ -14,7 +14,6 @@ I'm a Software Engineer writing mostly in Java and COBOL
 ## 🚀 Languages And Tools:
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <br/>
 
 ---
