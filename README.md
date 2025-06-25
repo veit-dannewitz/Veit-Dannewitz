@@ -7,7 +7,7 @@ I'm a Software Engineer writing mostly in Java and COBOL
 ## 🧑‍💻 About Me
 
 - 🔭 I work as a apprentice Software Engineer at Sopra Financial Technology.
-- 📫 How to reach me – veit.dannewitz@gmail.com(mailto:veit.dannewitz@gmail.com)
+- 📫 How to reach me – veit.dannewitz@gmail.com
 
 ---
 
