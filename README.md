@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi I'm Veit👋
 
-<!--
-**veit-dannewitz/Veit-Dannewitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer writing mostly in Java and COBOL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 I work as a apprentice Software Engineer at Sopra Financial Technology.
+- 📫 How to reach me – veit.dannewitz@gmail.com(mailto:veit.dannewitz@gmail.com)
+
+---
+
+## 🚀 Languages And Tools:
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<br/>
+
+---
+
+## 🛠 Tools
+
+<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+<br/>
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/veit-dannewitz-5249a4362)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge)](mailto:veit.dannewitz@gmail.com)
