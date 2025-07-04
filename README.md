@@ -50,7 +50,11 @@ I love it, to solve complex problems into elegant software solutions.
 <br/>
 
 ---
+## 🧠 Concepts & Practices
 
+`REST APIs` • `TDD` • `Scrum` • `Clean Code` • `Modular Architecture` • `Agile Collaboration`
+
+---
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/veit-dannewitz-5249a4362)
