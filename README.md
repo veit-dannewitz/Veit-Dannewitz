@@ -10,7 +10,7 @@ I'm a Software Engineer writing mostly in Java and COBOL
 
 Hey! Nice to have you here! 👋  
 I'm a passionate Software Engineer with a focus on JAVA Fullstack Development, but also in love with stable Systems for Banking and Insurance companies that use COBOL and IBM Mainframe Technology.  
-No matter if High-Performance-Algorithyms, Clean Code Architecture, or creative solutions - <br/>
+No matter if High-Performance-Algorithyms, Clean Code Architecture, or creative solutions <br/>
 I love it, to solve complex problems into elegant software solutions.
 
 -  🔭 I work as a apprentice Software Engineer at Sopra Financial Technology.
